@@ -39,18 +39,18 @@ const projectList = [
   {
     title: "A Simple Blogging App",
     description: "Created a simple blogging app in Node.JS.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    url: "https://github.com/gpoquendo/blog-app/tree/master",
   },
   {
     title: "Ticket Reservation System",
     description:
       "Another Node.JS web application that I created that functions as a simple ticket reservation system.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/gpoquendo/ticket-reservation/tree/validate",
   },
   {
     title: "Crud App",
     description: "Also a Node.JS web application that uses crud operations.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    url: "https://github.com/gpoquendo/crud-app/tree/app",
   },
 ];
 
